@@ -1,2 +1,5 @@
 Hello Ishwar
 Good Morning
+git fetch
+git branch
+git checkout -t origin/name of branch
